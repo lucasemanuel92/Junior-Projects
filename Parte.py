@@ -19,7 +19,7 @@ comando = f'INSERT INTO biblioteca (id_livro, titulo, autor, editora, paginas) V
 cursor.execute(comando)
 conexao.commit() # Caso eu editar o bando de dados
 
-# resultado = cursor.fetchall() # Caso eu vá ler o banco de dados
+# resultado = cursor.fetchall() # Caso eu vá ler o banco de dados abc
 
 
 cursor.close()
