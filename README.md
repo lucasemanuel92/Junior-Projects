@@ -1,5 +1,4 @@
-# Projetos CRUD / CRUD Projects
-
+# Junior Projects
 ## PT-BR
 Esses projetos começaram como uma idéia de melhorar minhas habilidades como programador usando a técnica "Learning by Doing". No arquivo que está na página incial você
 pode ver quais são as especificações dos projetos. Eles estão sendo mentorados por um amigo meu, Rodrigo Dantas, que gentilmente está me ajudando com toda a sua experiência a 
@@ -25,5 +24,6 @@ Get in touch to help, comment or ask any questions about this or other projects.
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white>
 <img align="center" alt="Java" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white>
+<img align="center" alt="Node.js" src=https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge>
 </div>
 
