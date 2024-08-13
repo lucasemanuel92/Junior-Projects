@@ -20,6 +20,14 @@ Get in touch to help, comment or ask any questions about this or other projects.
 </a>
 </div>
 
+## Projetos / Projects
+- Junior Projects: Projetos em multiplas linguas (PDF com a descrição dos projetos no repositório) / Projects in multiple languagens (PDF describing in the repository) (IN PROGRESS)
+   - Basic CRUD Application
+   - User Authetication and Authorization
+   - RESTful API for Task Management
+   - E-commerce Plataform Backend
+   - Real-time Chat Application
+
 ## Tecnologias / Technologies
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white>
